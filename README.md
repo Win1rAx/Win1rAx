@@ -33,7 +33,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Win1rAx&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Win1rAx&theme=dark)](https://git.io/streak-stats)
 
 ![Win1rAx's Stats](https://github-readme-stats.vercel.app/api?username=Win1rAx&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
