@@ -4,9 +4,9 @@
   
 
 
-  <h1>
-    Hi
+  <h1 >
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello!I'm WintrAx
   </h1>
 
 <div align="center">
@@ -33,20 +33,27 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Win1rAx&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Win1rAx&theme=dark)](https://git.io/streak-stats)
 
+![Win1rAx's Stats](https://github-readme-stats.vercel.app/api?username=Win1rAx&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![Codewars](https://www.codewars.com/users/WintrAx/badges/large)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Win1rAx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="badges">
-      <a href="your-linkedin-URL">
+      <a href="https://t.me/W1ntrAx">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
-      <a href="your-youtube-URL">
+      <a href="https://x.com/_WintrAx_">
         <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
       </a>
-      <a href="your-twitter-URL">
+      <a href="https://github.com/Win1rAx">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+      <a href="">
         <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
       </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=win1rAx&style=flat-square&color=blue" alt=""/
+    <img src="https://komarev.com/ghpvc/?username=win1rAx&style=flat-square&color=blue" alt=""/>
 </div>
